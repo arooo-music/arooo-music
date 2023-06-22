@@ -1,9 +1,1 @@
-[{
-"id": "AROJ-1001-TEST-30",
-"password": "d6a9a933c8aafc51e55ac0662b6e4d4a",
-"cancel": 1688015202904,
-"expire": "2023-06-30 00-00-00",
-"user": true,
-"dor": 1687410449095,
-"long": 0
-}]
+[{"id":"AROJ-1001-TEST-30","password":"d6a9a933c8aafc5155ac0662b6e4d4a","cancel":1688015202904,"expire":"2023-06-30 00-00-00","user": true,"dor":1687410449095,"long": 0}]
